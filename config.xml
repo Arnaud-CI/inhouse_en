@@ -4,9 +4,9 @@
 	id        = "eu.pcm.hycareen"
 	version   = "1.0.0">
 
-	<name>PCM HyCare</name>
+	<name>PCM HyCare en inHouse</name>
 	
-	<description>Presentation of Hycare, hygienic progressing cavity pump by PCM.</description>
+	<description>Presentation of Hycare, hygienic progressing cavity pump by PCM. InHouse version.</description>
 	
 	<author href="https://www.concept-image.fr" email="abarthelemy@concept-image.fr">PCM</author>
 
