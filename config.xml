@@ -2,7 +2,7 @@
 <widget xmlns = "http://www.w3.org/ns/widgets"
 	xmlns:gap = "http://phonegap.com/ns/1.0"
 	id        = "eu.pcm.hycareen"
-	version   = "1.0.0">
+	version   = "1.0.1">
 
 	<name>PCM HyCare en inHouse</name>
 	
@@ -16,7 +16,7 @@
 	-->
 	<feature name="http://api.phonegap.com/1.0/device" />
 
-    <preference name="phonegap-version"           value="2.5.0" />
+    <preference name="phonegap-version"           value="2.7.0" />
 	<preference name="orientation"                value="landscape" />
 	<preference name="target-device"              value="tablet" />      <!-- à changer pour tablet -->
 	<preference name="fullscreen"                 value="true" />           <!-- all: hides the status bar at the top of the screen -->
@@ -64,6 +64,8 @@
     <gap:splash src="res/screen/ios/screen-iphone-portrait-2x.png" gap:platform="ios"     width="640" height="960" />
     <gap:splash src="res/screen/ios/screen-ipad-portrait.png"      gap:platform="ios"     width="768" height="1024" />
     <gap:splash src="res/screen/ios/screen-ipad-landscape.png"     gap:platform="ios"     width="1024" height="768" />
+    <gap:splash src="res/screen/ios/screen-ipad-portrait-2x.png"   gap:platform="ios"     width="1536" height="2048" />
+    <gap:splash src="res/screen/ios/screen-ipad-landscape-2x.png"  gap:platform="ios"     width="2048" height="1536" />
     <gap:splash src="res/screen/windows-phone/screen-portrait.jpg" gap:platform="winphone" />
 
     <!--
